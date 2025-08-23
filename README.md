@@ -1,4 +1,4 @@
-# Analog Clock (Vanilla JS) ⏰
+# Analog Clock ⏰ (Vanilla JS)
 
 [![Live](https://img.shields.io/badge/GitHub_Pages-live-brightgreen)](https://kiettt23.github.io/analog-clock)
 ![stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-blue)
